@@ -149,7 +149,7 @@ Transactions consist of
 ##### What are some characteristics of Plain Text Accounting ?
 
 Accounting data is valuable;
-we want to know that it will be accessible for ever - even without software.
+we want to know that it will be accessible forever - even without software.
 We want to know when it changes, and revision-control it.
 We want to search and manipulate it efficiently.
 So, we store it as human-readable 
